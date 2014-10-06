@@ -1,0 +1,6 @@
+name: EntityVelocity
+description: Apply velocity to created entities or players
+main: dialga.shiny.entityvelocity.EntityVelocity
+version: 1.0.0
+author: ShinyDialga45
+depend: [WorldEdit]
