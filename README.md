@@ -4,7 +4,7 @@ EntityVelocity
 Apply velocity to a created entity or player!
 
 Commands:
-(/velocity can also be abbreviated as /vel, entity can be abbreviated as "e", player can be abbreviated as "p")
+(/velocity can also be abbreviated as /vel, entity can be abbreviated as "e", player can be abbreviated as "p", types can be abbreviated as "t")
  
 /velocity entity [entity] [# of entity] [velX] [velY] [velZ] [x] [y] [z]
 
