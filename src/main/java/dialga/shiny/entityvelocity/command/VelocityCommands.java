@@ -109,7 +109,7 @@ public class VelocityCommands {
         return;
     }
 
-    @CommandPermissions("velocity.velocity.types")
+    @CommandPermissions("velocity.types")
     @Command(
             aliases = {"types", "t"},
             desc = "View a list of usable mobs to summon!",
