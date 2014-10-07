@@ -50,4 +50,4 @@ Permission: velocity.velocity.player
 
 Displays a list of entity types that may be usable in /velocity entity [entity]
 
-Permission: velocity.velocity.types
+Permission: velocity.types
